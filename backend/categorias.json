@@ -1,0 +1,373 @@
+[
+    {
+        "pk": "12",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Vehiculos"
+        }
+    },
+    {
+        "pk": "14",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Tecnologia"
+        }
+    },
+    {
+        "pk": "15",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Electronica, Audio Y Video"
+        }
+    },
+    {
+        "pk": "16",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Consolas Y Videojuegos"
+        }
+    },
+    {
+        "pk": "17",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Salud Y Belleza"
+        }
+    },
+    {
+        "pk": "18",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Deportes Y Fitness"
+        }
+    },
+    {
+        "pk": "19",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Aire Libre, Camping Y Pesca"
+        }
+    },
+    {
+        "pk": "20",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Electrodomesticos"
+        }
+    },
+    {
+        "pk": "21",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Climatizacion"
+        }
+    },
+    {
+        "pk": "22",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Hogar"
+        }
+    },
+    {
+        "pk": "23",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Jardin Y Exterior"
+        }
+    },
+    {
+        "pk": "24",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Equipamientos De Oficinas"
+        }
+    },
+    {
+        "pk": "25",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Industria Agr\u00c3\u00adcola"
+        }
+    },
+    {
+        "pk": "26",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Industria Automotriz"
+        }
+    },
+    {
+        "pk": "27",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Industria Gastronomica"
+        }
+    },
+    {
+        "pk": "28",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Industria Textil"
+        }
+    },
+    {
+        "pk": "30",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Aberturas"
+        }
+    },
+    {
+        "pk": "31",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Herramientas"
+        }
+    },
+    {
+        "pk": "32",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Mobiliario Para Ba\u00c3\u00b1o"
+        }
+    },
+    {
+        "pk": "33",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Mobiliario Para Cocina"
+        }
+    },
+    {
+        "pk": "34",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Pisos"
+        }
+    },
+    {
+        "pk": "35",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Paredes"
+        }
+    },
+    {
+        "pk": "36",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Materiales De Construccion"
+        }
+    },
+    {
+        "pk": "37",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Pinturas Y Aplicadores"
+        }
+    },
+    {
+        "pk": "38",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Maquinas De Construccion"
+        }
+    },
+    {
+        "pk": "39",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Bebes"
+        }
+    },
+    {
+        "pk": "40",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Juegos Y Juguetes"
+        }
+    },
+    {
+        "pk": "41",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Joyas Y Relojes"
+        }
+    },
+    {
+        "pk": "42",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Libros"
+        }
+    },
+    {
+        "pk": "43",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Alimentos Y Bebidas"
+        }
+    },
+    {
+        "pk": "44",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Herboristeria Y Productos Naturales"
+        }
+    },
+    {
+        "pk": "45",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Grow Shop"
+        }
+    },
+    {
+        "pk": "46",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Mascotas"
+        }
+    },
+    {
+        "pk": "47",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Moda Y Accesorios De Mujer"
+        }
+    },
+    {
+        "pk": "48",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Moda Y Accesorios De Hombre"
+        }
+    },
+    {
+        "pk": "49",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Moda Y Accesorios De Ni\u00c3\u00b1as"
+        }
+    },
+    {
+        "pk": "50",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Moda Y Accesorios De Ni\u00c3\u00b1os"
+        }
+    },
+    {
+        "pk": "51",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Seguridad Industrial Y Para Trabajadores"
+        }
+    },
+    {
+        "pk": "52",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Cotillon, Disfraces Y Fiestas"
+        }
+    },
+    {
+        "pk": "53",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Articulos Para Escolares Y Liceales"
+        }
+    },
+    {
+        "pk": "54",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Barraca Y Ferreteria"
+        }
+    },
+    {
+        "pk": "55",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Servicios"
+        }
+    },
+    {
+        "pk": "56",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Optica"
+        }
+    },
+    {
+        "pk": "57",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Marroquineria Y Talabarter\u00c3\u00ada"
+        }
+    },
+    {
+        "pk": "58",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Moda Estilo Campo"
+        }
+    },
+    {
+        "pk": "59",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Productos Promocionales E Imprenta"
+        }
+    },
+    {
+        "pk": "60",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Grafica, Imprenta Y Floreria"
+        }
+    },
+    {
+        "pk": "61",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Celulares Y Smartphones"
+        }
+    },
+    {
+        "pk": "62",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Adultos"
+        }
+    },
+    {
+        "pk": "63",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Varios"
+        }
+    },
+    {
+        "pk": "64",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Viajes Y Turismo"
+        }
+    },
+    {
+        "pk": "65",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "MUSICA"
+        }
+    },
+    {
+        "pk": "66",
+        "model": "productos.Categorias",
+        "fields": {
+            "nombre": "Fuegos Artificiales"
+        }
+    }
+]

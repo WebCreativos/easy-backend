@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hello Bulma!</title>
+    <link rel="stylesheet" href="https://jenil.github.io/bulmaswatch/litera/bulmaswatch.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.4/dist/css/bulma-carousel.min.css">
+    <link rel="stylesheet" href="animations.css">
+    <link rel="stylesheet" href="https://unpkg.com/botui/build/botui.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/botui/build/botui-theme-default.css">
+    <link rel="stylesheet" href="http://localhost/static/css/chat.css">
+    <link rel="stylesheet" href="http://localhost/static/css/style.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar" role="navigation" aria-label="main navigation">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="https://bulma.io">
+                </a>
+
+                <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false"
+                    data-target="navbarBasicExample">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+            </div>
+
+            <div id="navbarBasicExample" class="navbar-end">
+                <div class="navbar-start">
+                    <a class="navbar-item">
+                        Inicio
+                    </a>
+
+                    <a class="navbar-item">
+                        Institucional
+                    </a>
+                    <a class="navbar-item">
+                        Servicios
+                    </a>
+                    <a class="navbar-item">
+                        Contacto
+                    </a>
+
+                </div>
+            </div>
+        </nav>
+    </header>
+    {% block container %}
+    {% endblock%}
+    <footer class="footer">
+        <div class="has-text-centered">
+            <p>Encuentranos en <span><a><i class="fab fa-facebook"></i> Facebook</a></span> y en
+                <span><a><i class="fab fa-instagram"></i> Instagram</a></span></p>
+            <img src="http://localhost/static/assets/logo.png">
+            <p class="fineprint"> © 2019 Sumece. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+</body>
+
+</html>
+
+<script src="https://cdn.jsdelivr.net/vue/latest/vue.min.js"></script>
+<script src="https://unpkg.com/botui/build/botui.min.js"></script>
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+<script src='http://code.jquery.com/jquery-1.11.3.min.js'></script>
+<script src="js/chat.js"></script>

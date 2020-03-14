@@ -1,0 +1,283 @@
+:root {
+    --primary: #17357e;
+    --secundary: #bf002b;
+    --tertiary: #0d2c75;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Lato:200,400,600,700,900');
+
+@font-face {
+    font-family: 'Gilfroy';
+    src: url('fonts/Gilroy-Light.otf');
+}
+
+@font-face {
+    font-family: 'GilfroyBold';
+    src: url('fonts/Gilroy-ExtraBold.otf');
+}
+
+body {
+    font-family: 'Gilfroy', sans-serif;
+    color: #1D2C51;
+    font-size: 18PX;
+    line-height: 20px;
+    font-weight: 600;
+}
+.navbar-item {
+    display: flex;
+}
+.navbar-start {
+    justify-content: flex-start;
+    margin-right: auto;
+}
+.navbar, .navbar-menu, .navbar-start, .navbar-end {
+    align-items: stretch;
+    display: flex;
+}
+.navbar-end{
+    justify-content: flex-end;
+    margin-left: auto;
+}
+h2 {
+    font-size: 2vw;
+    letter-spacing: -.03em;
+    color: var(--primary);
+    font-weight: 600;
+}
+
+h2 span {
+    color: var(--secundary) !important;
+    font-family: 'GilfroyBold', sans-serif;
+}
+
+footer {
+    color: white !important;
+    font-size: 20px;
+    border-top: 2px solid white;
+}
+
+h1 {
+    font-size: 4vw;
+    letter-spacing: -.03em;
+    color: var(--primary);
+    font-weight: 700;
+    margin-top: 0;
+}
+
+.icons-howto {
+    width: 7vw;
+}
+
+.slide .button {
+    border-color: white !important;
+    color: white !important;
+}
+.button{
+    border-radius: 5px;
+}
+.slide .column:first-child{
+    padding-left:5%;
+}
+.hero {
+    background: var(--tertiary);
+}
+
+.is-active a {
+    background: var(--primary) !important;
+    border-color: var(--primary) !important;
+}
+
+.slide h1,
+h2 {
+    color: white;
+}
+
+.about-us-left {
+    z-index: 1;
+}
+input{
+    background: transparent!important;
+    border-top: none!important;
+    border-left: none!important;
+    border-right: none!important;
+    border-bottom: 2px solid white!important;
+    border-radius:0!important;
+    color:white!important;
+    height: 50px 20px!important;
+    font-size: 20px!important;
+}
+input::placeholder{
+    color:white!important;
+    font-family: Gilfroy!important
+}
+select{
+    width:100%;
+    background: transparent!important;
+    border-top: none!important;
+    border-left: none!important;
+    border-right: none!important;
+    border-bottom: 2px solid white!important;
+    border-radius:0!important;
+    color:white!important;
+    height: 50px;
+    font-size: 20px;
+}
+.form-slide label{
+    color:white;
+    font-size: 20px;
+}
+.about-us-right {
+    background-image: url(https://www.fidget.com.au/wp-content/uploads/2019/03/iStock-640096288-1.jpg);
+    transform: translate3d(0px, -47.925px, 0px);
+    float: left;
+    height: 28vw;
+    margin: 5vw 0 0;
+    transform: translate3d(0px, -47.925px, 0px);
+    background-size: cover;
+}
+
+.about-us .button {
+    color: var(--primary) !important;
+    border-color: var(--primary) !important;
+}
+
+.fadeInLeft {
+    -webkit-animation-name: fadeInLeft;
+    animation-name: fadeInLeft;
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s;
+}
+
+.slide p {
+    color: white;
+    font-size: 20px;
+}
+
+.left-slide {
+    padding-left: 5vw;
+    z-index: 1;
+}
+
+h1 span {
+    color: var(--secundary) !important;
+    font-family: 'GilfroyBold', sans-serif;
+}
+
+footer a {
+    color: var(--tertiary) !important;
+}
+
+footer p {
+    margin-bottom: 5%;
+}
+
+.slide {
+    width: 100vw;
+    background: url('ext.jpeg');
+    background-position: center;
+    position: relative;
+    display: flex;
+    background-size: cover;
+}
+
+.navbar-item {
+    color: white;
+    font-weight: 200;
+    font-size: 15px;
+}
+
+.navbar-brand {
+    background: url(logo-firma.png);
+    width: 130px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.navbar {
+    border: none;
+    position: fixed;
+    z-index: 997;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 50px 5vw 20px;
+    background: transparent;
+    transition: padding-top .3s linear, padding-bottom .3s linear;
+
+}
+
+.text-howto {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.is-outlined {
+    padding: 20px;
+    border: 2px solid !important;
+}
+
+#tab-content>* {
+    display: none;
+}
+
+#tab-content *.is-active {
+    display: inline-flex;
+    min-height: 20vh;
+}
+
+.is-active li {
+    border-bottom: 1px solid black;
+    font-weight: 700;
+    list-style: circle;
+}
+
+.is-active li:last-child {
+    border-bottom: none;
+}
+
+.tabs li {
+    width: 33%;
+}
+
+.tabs li>a {
+    padding: 20px;
+}
+
+.navbar {
+    padding: 5px 5vw 5px;
+    box-shadow: 0 0 40px 0 rgba(0, 0, 0, .3);
+    opacity: .95;
+    background: var(--primary);
+}
+
+.steps {
+    text-align: left;
+    font-weight: 900;
+    font-family: 'GilfroyBold', sans-serif;
+    color: var(--primary);
+    font-size: 50px;
+}
+
+.layer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #000000;
+    opacity: 0.6;
+    z-index: 0;
+}
+.slide{
+}
+.form-slide{
+    height: 100%;
+    background: black;
+    opacity: .7;
+    padding-top: 80px;
+    padding-bottom:40px;
+}
+.form-slide .siguiente{
+    margin-top:20px;
+}

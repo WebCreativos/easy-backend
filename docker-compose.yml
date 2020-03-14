@@ -1,0 +1,43 @@
+backend:
+  restart: always
+  build: ./backend/
+  expose:
+    - "8000"
+  links:
+    - mysql
+    - redis
+  volumes:
+    - ./backend:/usr/src/app
+  env_file: .env
+  environment:
+    DEBUG: 'true'
+  command: python manage.py runserver 0.0.0.0:8000
+
+
+nginx:
+  restart: always
+  build: ./nginx/
+  ports:
+    - "801:80"
+  volumes:
+    - /www/static
+    - ./backend:/usr/src/app
+  volumes_from:
+    - backend
+  links:
+    - backend
+
+mysql:
+  restart: always
+  image: mariadb
+  volumes:
+    - easysql:/var/lib/mysql
+  env_file:
+    - .env
+
+redis:
+  restart: always
+  image: redis:latest
+  volumes:
+    - redisdata:/data
+

@@ -1,0 +1,8 @@
+# Add Environment Variables
+SECRET_KEY=5(15ds+i2+%ik6z&!yer+ga9m=e%jcqiz_5wszg)r-z!2--b2d
+MYSQL_DATABASE=sumece
+MYSQL_USER=sumece_user
+MYSQL_PASSWORD=983f07553
+MYSQL_SERVICE=mysql
+MYSQL_PORT=3306
+MYSQL_ROOT_PASSWORD=983f07553

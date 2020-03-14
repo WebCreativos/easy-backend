@@ -1,0 +1,8130 @@
+[
+    {
+        "pk": "14",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Accesorios para Autos y Camionetas"
+        }
+    },
+    {
+        "pk": "15",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "GPS "
+        }
+    },
+    {
+        "pk": "16",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Productos de Limpieza"
+        }
+    },
+    {
+        "pk": "17",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Accesorios para Motos"
+        }
+    },
+    {
+        "pk": "18",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Cascos"
+        }
+    },
+    {
+        "pk": "19",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "GPS para Motos"
+        }
+    },
+    {
+        "pk": "20",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Herramientas"
+        }
+    },
+    {
+        "pk": "21",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Audio para Autos"
+        }
+    },
+    {
+        "pk": "22",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Seguridad y  Alarmas"
+        }
+    },
+    {
+        "pk": "23",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Instrumentales"
+        }
+    },
+    {
+        "pk": "24",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Iluminaci\u00f3n"
+        }
+    },
+    {
+        "pk": "25",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Llantas"
+        }
+    },
+    {
+        "pk": "26",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Neum\u00e1ticos"
+        }
+    },
+    {
+        "pk": "27",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Pinturas"
+        }
+    },
+    {
+        "pk": "28",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Accesorios para Trailers"
+        }
+    },
+    {
+        "pk": "29",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Repuestos"
+        }
+    },
+    {
+        "pk": "30",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "Tuning"
+        }
+    },
+    {
+        "pk": "34",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Accesorios para Celulares"
+        }
+    },
+    {
+        "pk": "35",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Notebooks"
+        }
+    },
+    {
+        "pk": "36",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Repuestos de Notebooks"
+        }
+    },
+    {
+        "pk": "37",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Accesorios para Notebook"
+        }
+    },
+    {
+        "pk": "38",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Computadoras y Servidores"
+        }
+    },
+    {
+        "pk": "39",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "IPad y Tablets"
+        }
+    },
+    {
+        "pk": "40",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Accesorios para IPad y Tablets"
+        }
+    },
+    {
+        "pk": "41",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Perif\u00e9ricos y Accesorios de PC"
+        }
+    },
+    {
+        "pk": "42",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "C\u00e1maras y Accesorios"
+        }
+    },
+    {
+        "pk": "43",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Bater\u00edas, Cargadores y Pilas"
+        }
+    },
+    {
+        "pk": "44",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "C\u00e1maras Digitales"
+        }
+    },
+    {
+        "pk": "45",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "C\u00e1maras Digitales Marcas"
+        }
+    },
+    {
+        "pk": "46",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Memorias Digitales"
+        }
+    },
+    {
+        "pk": "47",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Telescopios y Binoculares"
+        }
+    },
+    {
+        "pk": "48",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "C\u00e1maras de Video "
+        }
+    },
+    {
+        "pk": "49",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "C\u00e1maras Digitales de Video Marcas"
+        }
+    },
+    {
+        "pk": "50",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Accesorios para Audio y Video"
+        }
+    },
+    {
+        "pk": "51",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Audio para Autos"
+        }
+    },
+    {
+        "pk": "52",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Audio para el Hogar"
+        }
+    },
+    {
+        "pk": "53",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Audio Portable"
+        }
+    },
+    {
+        "pk": "54",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Audio Profesional y DJs"
+        }
+    },
+    {
+        "pk": "55",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Drones"
+        }
+    },
+    {
+        "pk": "56",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "DVD y Video"
+        }
+    },
+    {
+        "pk": "57",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Fotocopiadoras"
+        }
+    },
+    {
+        "pk": "58",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "GPS"
+        }
+    },
+    {
+        "pk": "59",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "IPod"
+        }
+    },
+    {
+        "pk": "60",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "MP3, MP4 y MP5 Players"
+        }
+    },
+    {
+        "pk": "61",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Pilas, Bater\u00edas y Cargadores"
+        }
+    },
+    {
+        "pk": "62",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Proyectores y Pantallas"
+        }
+    },
+    {
+        "pk": "63",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Seguridad y Vigilancia"
+        }
+    },
+    {
+        "pk": "64",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Televisores"
+        }
+    },
+    {
+        "pk": "65",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Video C\u00e1maras Digital"
+        }
+    },
+    {
+        "pk": "66",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "16",
+            "nombre": "Juegos para PC"
+        }
+    },
+    {
+        "pk": "67",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "16",
+            "nombre": "Consolas"
+        }
+    },
+    {
+        "pk": "68",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Acondicionadores y Shampoo"
+        }
+    },
+    {
+        "pk": "69",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Tratamientos"
+        }
+    },
+    {
+        "pk": "70",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Equipamiento de Peluquer\u00eda"
+        }
+    },
+    {
+        "pk": "71",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Planchita de Pelo"
+        }
+    },
+    {
+        "pk": "72",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Secadores"
+        }
+    },
+    {
+        "pk": "73",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Cortadoras de Pelo"
+        }
+    },
+    {
+        "pk": "74",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Extensiones y Cortinas"
+        }
+    },
+    {
+        "pk": "75",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Pelucas"
+        }
+    },
+    {
+        "pk": "76",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Rizadores"
+        }
+    },
+    {
+        "pk": "77",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Cuidado de la Piel"
+        }
+    },
+    {
+        "pk": "78",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Cuidado de la Salud"
+        }
+    },
+    {
+        "pk": "79",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Art\u00edculos para Discapacitados"
+        }
+    },
+    {
+        "pk": "80",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Aceites"
+        }
+    },
+    {
+        "pk": "81",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Camas, Camillas y Colchones"
+        }
+    },
+    {
+        "pk": "82",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Instrumental y Monitoreo"
+        }
+    },
+    {
+        "pk": "83",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Balanzas de Ba\u00f1o"
+        }
+    },
+    {
+        "pk": "84",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Nebulizadores"
+        }
+    },
+    {
+        "pk": "85",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Cremas"
+        }
+    },
+    {
+        "pk": "86",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Respiradores"
+        }
+    },
+    {
+        "pk": "87",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "U\u00f1as Esculpidas"
+        }
+    },
+    {
+        "pk": "88",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Instrumental de Manicur\u00eda"
+        }
+    },
+    {
+        "pk": "89",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Cremas para manos"
+        }
+    },
+    {
+        "pk": "90",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Tratamientos Corporales"
+        }
+    },
+    {
+        "pk": "91",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Depilaci\u00f3n"
+        }
+    },
+    {
+        "pk": "92",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Accesorios para Masajes"
+        }
+    },
+    {
+        "pk": "93",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Afeitadora"
+        }
+    },
+    {
+        "pk": "94",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Higiene Personal"
+        }
+    },
+    {
+        "pk": "95",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Fajas "
+        }
+    },
+    {
+        "pk": "96",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Rodilleras"
+        }
+    },
+    {
+        "pk": "97",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Cortadoras de Barba"
+        }
+    },
+    {
+        "pk": "98",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Plantillas Ortop\u00e9dicas"
+        }
+    },
+    {
+        "pk": "99",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Almohadillas Cervicales"
+        }
+    },
+    {
+        "pk": "100",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Medias de Descanso"
+        }
+    },
+    {
+        "pk": "101",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Rodilleras"
+        }
+    },
+    {
+        "pk": "102",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Maquillajes de Ojos"
+        }
+    },
+    {
+        "pk": "103",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Maquillajes de Rostro"
+        }
+    },
+    {
+        "pk": "104",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Maletines"
+        }
+    },
+    {
+        "pk": "105",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Productos De U\u00f1as"
+        }
+    },
+    {
+        "pk": "106",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Productos De Labios"
+        }
+    },
+    {
+        "pk": "107",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Pinceles y Brochas"
+        }
+    },
+    {
+        "pk": "108",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Organizadores"
+        }
+    },
+    {
+        "pk": "109",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Perfumes y Fragancias"
+        }
+    },
+    {
+        "pk": "110",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Vitaminas"
+        }
+    },
+    {
+        "pk": "111",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Acu\u00e1ticos"
+        }
+    },
+    {
+        "pk": "112",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Indumentaria N\u00e1utica"
+        }
+    },
+    {
+        "pk": "113",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Buceo"
+        }
+    },
+    {
+        "pk": "114",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Kitesurf"
+        }
+    },
+    {
+        "pk": "115",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Windsurf"
+        }
+    },
+    {
+        "pk": "116",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Aparatos de Gimnasio"
+        }
+    },
+    {
+        "pk": "117",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Indumentaria y Accesorios Deportivos"
+        }
+    },
+    {
+        "pk": "118",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Accesorios Deportivos"
+        }
+    },
+    {
+        "pk": "119",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Otros Productos"
+        }
+    },
+    {
+        "pk": "120",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Elementos de Trabajo de Aerobics y Fitness"
+        }
+    },
+    {
+        "pk": "121",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Accesorios para Yoga y Pilates"
+        }
+    },
+    {
+        "pk": "122",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Artes Marciales"
+        }
+    },
+    {
+        "pk": "123",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Indumentaria de Basquetbol"
+        }
+    },
+    {
+        "pk": "124",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Aros y Tableros"
+        }
+    },
+    {
+        "pk": "125",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Pelotas"
+        }
+    },
+    {
+        "pk": "126",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Banderines"
+        }
+    },
+    {
+        "pk": "127",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Artes Marciales"
+        }
+    },
+    {
+        "pk": "128",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Bicicletas"
+        }
+    },
+    {
+        "pk": "129",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Repuestos para Bicicletas"
+        }
+    },
+    {
+        "pk": "130",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Boxeo"
+        }
+    },
+    {
+        "pk": "131",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Calzado Deportivo"
+        }
+    },
+    {
+        "pk": "132",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Deportes Extremos"
+        }
+    },
+    {
+        "pk": "133",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Camisetas de F\u00fatbol"
+        }
+    },
+    {
+        "pk": "134",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Indumentaria de F\u00fatbol"
+        }
+    },
+    {
+        "pk": "135",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Art\u00edculos Especiales de F\u00fatbol"
+        }
+    },
+    {
+        "pk": "136",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Pelotas de F\u00fatbol"
+        }
+    },
+    {
+        "pk": "137",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Arcos y Redes de F\u00fatbol"
+        }
+    },
+    {
+        "pk": "138",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Golf"
+        }
+    },
+    {
+        "pk": "139",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Hockey"
+        }
+    },
+    {
+        "pk": "140",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Lentes Deportivos y de Sol"
+        }
+    },
+    {
+        "pk": "141",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Pat\u00edn"
+        }
+    },
+    {
+        "pk": "142",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Rugby"
+        }
+    },
+    {
+        "pk": "143",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Skateboarding"
+        }
+    },
+    {
+        "pk": "144",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Suplementos Alimenticios"
+        }
+    },
+    {
+        "pk": "145",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "18",
+            "nombre": "Tenis y Paddle"
+        }
+    },
+    {
+        "pk": "146",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Camping"
+        }
+    },
+    {
+        "pk": "147",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Art\u00edculos para Caza"
+        }
+    },
+    {
+        "pk": "148",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Carpas"
+        }
+    },
+    {
+        "pk": "149",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Linternas y Faroles"
+        }
+    },
+    {
+        "pk": "150",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Navajas, Cuchillos y Otros"
+        }
+    },
+    {
+        "pk": "151",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Recipientes T\u00e9rmicos"
+        }
+    },
+    {
+        "pk": "152",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Binoculares"
+        }
+    },
+    {
+        "pk": "153",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Lonas"
+        }
+    },
+    {
+        "pk": "154",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Colchones Inflables"
+        }
+    },
+    {
+        "pk": "155",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Mochilas y Bolsos"
+        }
+    },
+    {
+        "pk": "156",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Almohadas Inflables"
+        }
+    },
+    {
+        "pk": "157",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Art\u00edculos para Cocci\u00f3n"
+        }
+    },
+    {
+        "pk": "158",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Bolsas Estancas"
+        }
+    },
+    {
+        "pk": "159",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Bolsas y Sobres  de Dormir"
+        }
+    },
+    {
+        "pk": "160",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Br\u00fajulas"
+        }
+    },
+    {
+        "pk": "161",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Catres"
+        }
+    },
+    {
+        "pk": "162",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Cuerdas"
+        }
+    },
+    {
+        "pk": "163",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Indumentaria"
+        }
+    },
+    {
+        "pk": "164",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Mesas y Sillas"
+        }
+    },
+    {
+        "pk": "165",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Monoculares"
+        }
+    },
+    {
+        "pk": "166",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Palas Y Picos"
+        }
+    },
+    {
+        "pk": "167",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Otros"
+        }
+    },
+    {
+        "pk": "168",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Pesca"
+        }
+    },
+    {
+        "pk": "169",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Reeles"
+        }
+    },
+    {
+        "pk": "170",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Ca\u00f1as"
+        }
+    },
+    {
+        "pk": "171",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Se\u00f1uelos, Anzuelos y Tanzas"
+        }
+    },
+    {
+        "pk": "172",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Cajas y Valijas"
+        }
+    },
+    {
+        "pk": "173",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Chalecos Salvavidas"
+        }
+    },
+    {
+        "pk": "174",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Boyas"
+        }
+    },
+    {
+        "pk": "175",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Pinzas"
+        }
+    },
+    {
+        "pk": "176",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Posa Ca\u00f1as"
+        }
+    },
+    {
+        "pk": "177",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "19",
+            "nombre": "Balanzas"
+        }
+    },
+    {
+        "pk": "178",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "20",
+            "nombre": "Aspiradoras"
+        }
+    },
+    {
+        "pk": "179",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "20",
+            "nombre": "Productos para el Hogar"
+        }
+    },
+    {
+        "pk": "180",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "20",
+            "nombre": "Cuidado Personal"
+        }
+    },
+    {
+        "pk": "181",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "20",
+            "nombre": "Climatizaci\u00f3n"
+        }
+    },
+    {
+        "pk": "182",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "21",
+            "nombre": "Aires Acondicionados"
+        }
+    },
+    {
+        "pk": "183",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "21",
+            "nombre": "Estufas"
+        }
+    },
+    {
+        "pk": "184",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "21",
+            "nombre": "Ventiladores"
+        }
+    },
+    {
+        "pk": "185",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "21",
+            "nombre": "Deshumidificadores"
+        }
+    },
+    {
+        "pk": "186",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "21",
+            "nombre": "Enfriadores de Aire"
+        }
+    },
+    {
+        "pk": "187",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "21",
+            "nombre": "Otros Productos"
+        }
+    },
+    {
+        "pk": "188",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Ba\u00f1o"
+        }
+    },
+    {
+        "pk": "189",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Cocina y Bazar"
+        }
+    },
+    {
+        "pk": "190",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Comedor"
+        }
+    },
+    {
+        "pk": "191",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Decoraci\u00f3n"
+        }
+    },
+    {
+        "pk": "192",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Dormitorio"
+        }
+    },
+    {
+        "pk": "193",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Escritorio"
+        }
+    },
+    {
+        "pk": "194",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Iluminaci\u00f3n"
+        }
+    },
+    {
+        "pk": "195",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Lavadero y Limpieza"
+        }
+    },
+    {
+        "pk": "196",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Living"
+        }
+    },
+    {
+        "pk": "197",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Jard\u00edn"
+        }
+    },
+    {
+        "pk": "198",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Jardiner\u00eda"
+        }
+    },
+    {
+        "pk": "199",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Muebles de Jard\u00edn"
+        }
+    },
+    {
+        "pk": "200",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "M\u00e1quinas para el Jard\u00edn"
+        }
+    },
+    {
+        "pk": "201",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Accesorios para Piscinas"
+        }
+    },
+    {
+        "pk": "202",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Hornos y Parrillas para el Jard\u00edn"
+        }
+    },
+    {
+        "pk": "203",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Piscinas"
+        }
+    },
+    {
+        "pk": "204",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Escaleras"
+        }
+    },
+    {
+        "pk": "205",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Riego"
+        }
+    },
+    {
+        "pk": "206",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Herramientas de Jard\u00edn"
+        }
+    },
+    {
+        "pk": "207",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Calefactores de Exterior"
+        }
+    },
+    {
+        "pk": "208",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Cercas"
+        }
+    },
+    {
+        "pk": "209",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Contenedores de Residuos "
+        }
+    },
+    {
+        "pk": "210",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Buzones"
+        }
+    },
+    {
+        "pk": "211",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Decks "
+        }
+    },
+    {
+        "pk": "212",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Gazebos"
+        }
+    },
+    {
+        "pk": "213",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Sombrillas "
+        }
+    },
+    {
+        "pk": "214",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Tendederos"
+        }
+    },
+    {
+        "pk": "215",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Toldos"
+        }
+    },
+    {
+        "pk": "216",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "23",
+            "nombre": "Otros productos"
+        }
+    },
+    {
+        "pk": "217",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Papeler\u00eda para Oficinas"
+        }
+    },
+    {
+        "pk": "218",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Estantes para Oficinas"
+        }
+    },
+    {
+        "pk": "219",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "\u00datiles de Escritorio para Oficinas"
+        }
+    },
+    {
+        "pk": "220",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Agendas"
+        }
+    },
+    {
+        "pk": "221",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Pizarras"
+        }
+    },
+    {
+        "pk": "222",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Papeleras para Oficinas"
+        }
+    },
+    {
+        "pk": "223",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Ficheros y Archivadores"
+        }
+    },
+    {
+        "pk": "224",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Cajones de Dinero"
+        }
+    },
+    {
+        "pk": "225",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Destructoras de Papel"
+        }
+    },
+    {
+        "pk": "226",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Detectores de billetes"
+        }
+    },
+    {
+        "pk": "227",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Escritorios"
+        }
+    },
+    {
+        "pk": "228",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Fotocopiadoras"
+        }
+    },
+    {
+        "pk": "229",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Guillotinas Para Papel"
+        }
+    },
+    {
+        "pk": "230",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Impresoras de etiquetas"
+        }
+    },
+    {
+        "pk": "231",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "L\u00e1mparas"
+        }
+    },
+    {
+        "pk": "232",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Plastificadoras"
+        }
+    },
+    {
+        "pk": "233",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "24",
+            "nombre": "Otros Equipamientos"
+        }
+    },
+    {
+        "pk": "234",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "25",
+            "nombre": "M\u00e1quinas Agricolas"
+        }
+    },
+    {
+        "pk": "235",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "25",
+            "nombre": "Fardos"
+        }
+    },
+    {
+        "pk": "236",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "25",
+            "nombre": "Electrificadores"
+        }
+    },
+    {
+        "pk": "237",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "25",
+            "nombre": "Tarrinas y Bidones"
+        }
+    },
+    {
+        "pk": "238",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "25",
+            "nombre": "Bebederos y Comederos para Ganado"
+        }
+    },
+    {
+        "pk": "239",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "25",
+            "nombre": "Ca\u00f1os"
+        }
+    },
+    {
+        "pk": "240",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "25",
+            "nombre": "Motobombas"
+        }
+    },
+    {
+        "pk": "241",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "25",
+            "nombre": "Cajones"
+        }
+    },
+    {
+        "pk": "242",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "25",
+            "nombre": "Orde\u00f1adoras"
+        }
+    },
+    {
+        "pk": "243",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "25",
+            "nombre": "Otros Productos"
+        }
+    },
+    {
+        "pk": "244",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Elevadores Automotrices"
+        }
+    },
+    {
+        "pk": "245",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Herramientas"
+        }
+    },
+    {
+        "pk": "246",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Extractores"
+        }
+    },
+    {
+        "pk": "247",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Productos de Limpieza"
+        }
+    },
+    {
+        "pk": "248",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Pinturas"
+        }
+    },
+    {
+        "pk": "249",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Compresores"
+        }
+    },
+    {
+        "pk": "250",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Prensas Hidr\u00e1ulicas"
+        }
+    },
+    {
+        "pk": "251",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Pluma Hidr\u00e1ulica"
+        }
+    },
+    {
+        "pk": "252",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Sacabollos"
+        }
+    },
+    {
+        "pk": "253",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Alineadoras"
+        }
+    },
+    {
+        "pk": "254",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Balanceadoras"
+        }
+    },
+    {
+        "pk": "255",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Cintas"
+        }
+    },
+    {
+        "pk": "256",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Desenllantadoras "
+        }
+    },
+    {
+        "pk": "257",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Discos"
+        }
+    },
+    {
+        "pk": "258",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Surtidores"
+        }
+    },
+    {
+        "pk": "259",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Tubos de ox\u00edgeno"
+        }
+    },
+    {
+        "pk": "260",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Vulcanizadoras"
+        }
+    },
+    {
+        "pk": "261",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "26",
+            "nombre": "Otros Productos"
+        }
+    },
+    {
+        "pk": "262",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "M\u00e1quinas Gastron\u00f3micas"
+        }
+    },
+    {
+        "pk": "263",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Vitrinas"
+        }
+    },
+    {
+        "pk": "264",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Exhibidores"
+        }
+    },
+    {
+        "pk": "265",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Productos para Cervezas"
+        }
+    },
+    {
+        "pk": "266",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Utensilios de Cocina Industriales"
+        }
+    },
+    {
+        "pk": "267",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Bandejas"
+        }
+    },
+    {
+        "pk": "268",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Bolsas"
+        }
+    },
+    {
+        "pk": "269",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Mesadas Gastron\u00f3micas"
+        }
+    },
+    {
+        "pk": "270",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Cajas de Cart\u00f3n en Industria Gastron\u00f3mica"
+        }
+    },
+    {
+        "pk": "271",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Asaderas"
+        }
+    },
+    {
+        "pk": "272",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Cajas Registradoras"
+        }
+    },
+    {
+        "pk": "273",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Cajones"
+        }
+    },
+    {
+        "pk": "274",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Canastos de Freir "
+        }
+    },
+    {
+        "pk": "275",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Carros de Comidas"
+        }
+    },
+    {
+        "pk": "276",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Carteles Gastron\u00f3micos"
+        }
+    },
+    {
+        "pk": "277",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Delantales"
+        }
+    },
+    {
+        "pk": "278",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Extractores"
+        }
+    },
+    {
+        "pk": "279",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Frascos"
+        }
+    },
+    {
+        "pk": "280",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Garrafas"
+        }
+    },
+    {
+        "pk": "281",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Gavillares"
+        }
+    },
+    {
+        "pk": "282",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Guantes y Manoplas"
+        }
+    },
+    {
+        "pk": "283",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Jarras "
+        }
+    },
+    {
+        "pk": "284",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Mesadas"
+        }
+    },
+    {
+        "pk": "285",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Moldes"
+        }
+    },
+    {
+        "pk": "286",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Molinillos"
+        }
+    },
+    {
+        "pk": "287",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Palas"
+        }
+    },
+    {
+        "pk": "288",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Pinzas"
+        }
+    },
+    {
+        "pk": "289",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Rollos"
+        }
+    },
+    {
+        "pk": "290",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Servilletas y Servilleteros"
+        }
+    },
+    {
+        "pk": "291",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Sopletes"
+        }
+    },
+    {
+        "pk": "292",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Term\u00f3metros"
+        }
+    },
+    {
+        "pk": "293",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Vasos"
+        }
+    },
+    {
+        "pk": "294",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "27",
+            "nombre": "Otros Productos"
+        }
+    },
+    {
+        "pk": "295",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "28",
+            "nombre": "M\u00e1quinas de Coser"
+        }
+    },
+    {
+        "pk": "296",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "28",
+            "nombre": "Sublimaci\u00f3n"
+        }
+    },
+    {
+        "pk": "297",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "28",
+            "nombre": "Telas"
+        }
+    },
+    {
+        "pk": "298",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "28",
+            "nombre": "Cierres, Botones y Agujas"
+        }
+    },
+    {
+        "pk": "299",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "28",
+            "nombre": "Maniquies"
+        }
+    },
+    {
+        "pk": "300",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "28",
+            "nombre": "Serigraf\u00eda"
+        }
+    },
+    {
+        "pk": "301",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "28",
+            "nombre": "M\u00e1quinas De Cortar"
+        }
+    },
+    {
+        "pk": "302",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "28",
+            "nombre": "M\u00e1quinas de Tejer"
+        }
+    },
+    {
+        "pk": "303",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "28",
+            "nombre": "M\u00e1quinas De Cortar"
+        }
+    },
+    {
+        "pk": "304",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "28",
+            "nombre": "Perchas y Percheros"
+        }
+    },
+    {
+        "pk": "305",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "28",
+            "nombre": "Pinza sacabocado"
+        }
+    },
+    {
+        "pk": "307",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "30",
+            "nombre": "PUERTAS"
+        }
+    },
+    {
+        "pk": "308",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "30",
+            "nombre": "Ventanas"
+        }
+    },
+    {
+        "pk": "309",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "30",
+            "nombre": "Cerraduras y Herrajes"
+        }
+    },
+    {
+        "pk": "310",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "30",
+            "nombre": "Herrajes"
+        }
+    },
+    {
+        "pk": "311",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "30",
+            "nombre": "Rejas"
+        }
+    },
+    {
+        "pk": "312",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "30",
+            "nombre": "Portones"
+        }
+    },
+    {
+        "pk": "313",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "30",
+            "nombre": "Aleros"
+        }
+    },
+    {
+        "pk": "314",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "30",
+            "nombre": "Postigones"
+        }
+    },
+    {
+        "pk": "315",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "31",
+            "nombre": "Herramientas El\u00e9ctricas"
+        }
+    },
+    {
+        "pk": "345",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "31",
+            "nombre": "Herramientas Manuales"
+        }
+    },
+    {
+        "pk": "346",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "31",
+            "nombre": "Herramientas Industriales"
+        }
+    },
+    {
+        "pk": "347",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "31",
+            "nombre": "Accesorios para Herramientas"
+        }
+    },
+    {
+        "pk": "348",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "31",
+            "nombre": "Equipos Para Pintar"
+        }
+    },
+    {
+        "pk": "349",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "31",
+            "nombre": "Otras Herramientas"
+        }
+    },
+    {
+        "pk": "350",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "32",
+            "nombre": "Sanitarios"
+        }
+    },
+    {
+        "pk": "351",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "32",
+            "nombre": "Grifer\u00eda"
+        }
+    },
+    {
+        "pk": "352",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "32",
+            "nombre": "Grifer\u00eda Convencional"
+        }
+    },
+    {
+        "pk": "353",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "32",
+            "nombre": "Muebles de Ba\u00f1o"
+        }
+    },
+    {
+        "pk": "354",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "32",
+            "nombre": "Ba\u00f1eras e Hidromasajes"
+        }
+    },
+    {
+        "pk": "355",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "32",
+            "nombre": "Cabinas de Ducha"
+        }
+    },
+    {
+        "pk": "356",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "33",
+            "nombre": "Amoblamientos \u00c1ereos y Alacenas"
+        }
+    },
+    {
+        "pk": "357",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "33",
+            "nombre": "Amoblamientos Mesadas y Bajo Mesadas"
+        }
+    },
+    {
+        "pk": "358",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "33",
+            "nombre": "Bachas y Piletas"
+        }
+    },
+    {
+        "pk": "359",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "33",
+            "nombre": "Desayunadores"
+        }
+    },
+    {
+        "pk": "360",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "33",
+            "nombre": "Grifer\u00eda de Cocina"
+        }
+    },
+    {
+        "pk": "361",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "33",
+            "nombre": "Soportes"
+        }
+    },
+    {
+        "pk": "362",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "34",
+            "nombre": "Pisos de Cer\u00e1mica"
+        }
+    },
+    {
+        "pk": "363",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "34",
+            "nombre": "Baldosas"
+        }
+    },
+    {
+        "pk": "364",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "34",
+            "nombre": "Pisos de Madera"
+        }
+    },
+    {
+        "pk": "365",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "34",
+            "nombre": "Porcelanato"
+        }
+    },
+    {
+        "pk": "366",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "34",
+            "nombre": "Pisos Flotantes"
+        }
+    },
+    {
+        "pk": "367",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "34",
+            "nombre": "Pisos de Piedra"
+        }
+    },
+    {
+        "pk": "368",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "34",
+            "nombre": "Pisos de Otros Materiales"
+        }
+    },
+    {
+        "pk": "369",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "35",
+            "nombre": "Revestimientos para Paredes de Cer\u00e1mica"
+        }
+    },
+    {
+        "pk": "370",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "35",
+            "nombre": "Revestimientos para Paredes de Piedra"
+        }
+    },
+    {
+        "pk": "371",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "35",
+            "nombre": "Revestimientos para Paredes de Yeso"
+        }
+    },
+    {
+        "pk": "372",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "35",
+            "nombre": "Revestimientos para Paredes de Azulejos"
+        }
+    },
+    {
+        "pk": "373",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "35",
+            "nombre": "Revestimientos para Paredes de Otros Materiales"
+        }
+    },
+    {
+        "pk": "374",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "35",
+            "nombre": "Empapelados para Pared"
+        }
+    },
+    {
+        "pk": "375",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "35",
+            "nombre": "Otras Paredes"
+        }
+    },
+    {
+        "pk": "376",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "CHAPAS"
+        }
+    },
+    {
+        "pk": "377",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Maderas"
+        }
+    },
+    {
+        "pk": "378",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Membranas para Construcci\u00f3n"
+        }
+    },
+    {
+        "pk": "379",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Placas de Construcci\u00f3n"
+        }
+    },
+    {
+        "pk": "380",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Ca\u00f1os para Construcci\u00f3n"
+        }
+    },
+    {
+        "pk": "381",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Perfiles para Construcci\u00f3n"
+        }
+    },
+    {
+        "pk": "382",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Ladrillos"
+        }
+    },
+    {
+        "pk": "383",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Tejas"
+        }
+    },
+    {
+        "pk": "384",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Silicona"
+        }
+    },
+    {
+        "pk": "385",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Abrazaderas"
+        }
+    },
+    {
+        "pk": "386",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Acero"
+        }
+    },
+    {
+        "pk": "387",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Alambrados"
+        }
+    },
+    {
+        "pk": "388",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Arena y Pedregullo"
+        }
+    },
+    {
+        "pk": "389",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Aros de Hormig\u00f3n"
+        }
+    },
+    {
+        "pk": "390",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Bloques de Hormig\u00f3n"
+        }
+    },
+    {
+        "pk": "391",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Cables"
+        }
+    },
+    {
+        "pk": "392",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Cerchas"
+        }
+    },
+    {
+        "pk": "393",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Cielorrasos de PVC"
+        }
+    },
+    {
+        "pk": "394",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Cintas "
+        }
+    },
+    {
+        "pk": "395",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Columnas de Hormig\u00f3n "
+        }
+    },
+    {
+        "pk": "396",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Electrodos"
+        }
+    },
+    {
+        "pk": "397",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Espuma de Poliuretano"
+        }
+    },
+    {
+        "pk": "398",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Estribos"
+        }
+    },
+    {
+        "pk": "399",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Fibra de Vidrio"
+        }
+    },
+    {
+        "pk": "400",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Graseras"
+        }
+    },
+    {
+        "pk": "401",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Isopaneles "
+        }
+    },
+    {
+        "pk": "402",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Lana de Vidrio"
+        }
+    },
+    {
+        "pk": "403",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Llaves"
+        }
+    },
+    {
+        "pk": "404",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Marcos y Tapas de Hormig\u00f3n "
+        }
+    },
+    {
+        "pk": "405",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Masilla"
+        }
+    },
+    {
+        "pk": "406",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Moldes "
+        }
+    },
+    {
+        "pk": "407",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Pegamentos"
+        }
+    },
+    {
+        "pk": "408",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Postes de Madera"
+        }
+    },
+    {
+        "pk": "409",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Revestimientos de Hormig\u00f3n "
+        }
+    },
+    {
+        "pk": "410",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Silicona"
+        }
+    },
+    {
+        "pk": "411",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Varillas"
+        }
+    },
+    {
+        "pk": "412",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Vigas"
+        }
+    },
+    {
+        "pk": "413",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "36",
+            "nombre": "Otros Materiales"
+        }
+    },
+    {
+        "pk": "414",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "37",
+            "nombre": "Pintura de L\u00e1tex"
+        }
+    },
+    {
+        "pk": "415",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "37",
+            "nombre": "Pintura Esmaltada"
+        }
+    },
+    {
+        "pk": "416",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "37",
+            "nombre": "Aplicadores de Pintura"
+        }
+    },
+    {
+        "pk": "417",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "37",
+            "nombre": "Pinturas En Aerosol"
+        }
+    },
+    {
+        "pk": "418",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "37",
+            "nombre": "Pinturas Protectoras de Madera"
+        }
+    },
+    {
+        "pk": "419",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "37",
+            "nombre": "Pinturas y Aplicadores Cielo Raso"
+        }
+    },
+    {
+        "pk": "420",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "37",
+            "nombre": "Pinturas y Aplicadores Multiuso para Pisos"
+        }
+    },
+    {
+        "pk": "421",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "37",
+            "nombre": "Pinturas y Aplicadores Barnices y Lacas"
+        }
+    },
+    {
+        "pk": "422",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "37",
+            "nombre": "Enduido"
+        }
+    },
+    {
+        "pk": "423",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "37",
+            "nombre": "Pinturas y Aplicadores Fondo Antioxido"
+        }
+    },
+    {
+        "pk": "424",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "37",
+            "nombre": "Impermeabilizantes"
+        }
+    },
+    {
+        "pk": "425",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "37",
+            "nombre": "Pinturas y Aplicadores Pintura para Piscinas"
+        }
+    },
+    {
+        "pk": "426",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "37",
+            "nombre": "Otras Pinturas y Aplicadores"
+        }
+    },
+    {
+        "pk": "427",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Generadores"
+        }
+    },
+    {
+        "pk": "428",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Compresores"
+        }
+    },
+    {
+        "pk": "429",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Cortadoras"
+        }
+    },
+    {
+        "pk": "430",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Motores Monof\u00e1sicos"
+        }
+    },
+    {
+        "pk": "431",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Motores Trif\u00e1sicos "
+        }
+    },
+    {
+        "pk": "432",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Bloqueras"
+        }
+    },
+    {
+        "pk": "433",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Compactadoras"
+        }
+    },
+    {
+        "pk": "434",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Vibradores para Hormig\u00f3n"
+        }
+    },
+    {
+        "pk": "435",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Acanaladoras "
+        }
+    },
+    {
+        "pk": "436",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Balancines"
+        }
+    },
+    {
+        "pk": "437",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Elevadores"
+        }
+    },
+    {
+        "pk": "438",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Enchapadoras y Laminadoras"
+        }
+    },
+    {
+        "pk": "439",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Gr\u00faas "
+        }
+    },
+    {
+        "pk": "440",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Guinches"
+        }
+    },
+    {
+        "pk": "441",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Hornos"
+        }
+    },
+    {
+        "pk": "442",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "M\u00e1quinas Combinadas"
+        }
+    },
+    {
+        "pk": "443",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Molinos a Martillo"
+        }
+    },
+    {
+        "pk": "444",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Prensas"
+        }
+    },
+    {
+        "pk": "445",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Tornos"
+        }
+    },
+    {
+        "pk": "446",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "38",
+            "nombre": "Otras M\u00e1quinas"
+        }
+    },
+    {
+        "pk": "447",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "39",
+            "nombre": "Alimentaci\u00f3n del Beb\u00e9"
+        }
+    },
+    {
+        "pk": "448",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "39",
+            "nombre": "Cuarto del Beb\u00e9"
+        }
+    },
+    {
+        "pk": "449",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "39",
+            "nombre": "Higiene y Cuidado del Beb\u00e9"
+        }
+    },
+    {
+        "pk": "450",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "39",
+            "nombre": "Ba\u00f1eras"
+        }
+    },
+    {
+        "pk": "451",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "39",
+            "nombre": "Juguetes para Bebes"
+        }
+    },
+    {
+        "pk": "452",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "39",
+            "nombre": "Mam\u00e1 y Futura Mam\u00e1"
+        }
+    },
+    {
+        "pk": "453",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "39",
+            "nombre": "Salidas con el Beb\u00e9"
+        }
+    },
+    {
+        "pk": "454",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "39",
+            "nombre": "Ropa de Beb\u00e9"
+        }
+    },
+    {
+        "pk": "455",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "40",
+            "nombre": "Autos de Juguete"
+        }
+    },
+    {
+        "pk": "456",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "40",
+            "nombre": "Juegos de Aire Libre y Agua"
+        }
+    },
+    {
+        "pk": "457",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "40",
+            "nombre": "Juegos de Mesa"
+        }
+    },
+    {
+        "pk": "458",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "40",
+            "nombre": "Juegos de Sal\u00f3n"
+        }
+    },
+    {
+        "pk": "459",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "40",
+            "nombre": "Juegos Electr\u00f3nicos"
+        }
+    },
+    {
+        "pk": "460",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "40",
+            "nombre": "Juguetes"
+        }
+    },
+    {
+        "pk": "461",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "40",
+            "nombre": "Mu\u00f1ecas y Accesorios"
+        }
+    },
+    {
+        "pk": "462",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "40",
+            "nombre": "Mu\u00f1ecos y Accesorios"
+        }
+    },
+    {
+        "pk": "463",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "40",
+            "nombre": "Veh\u00edculos para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "464",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "41",
+            "nombre": "Relojes"
+        }
+    },
+    {
+        "pk": "465",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "41",
+            "nombre": "Joyas"
+        }
+    },
+    {
+        "pk": "466",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Animales"
+        }
+    },
+    {
+        "pk": "467",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Arquitectura y dise\u00f1o"
+        }
+    },
+    {
+        "pk": "468",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Arte"
+        }
+    },
+    {
+        "pk": "469",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Arteterapia y Mandalas"
+        }
+    },
+    {
+        "pk": "470",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Atlas"
+        }
+    },
+    {
+        "pk": "471",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Autoayuda"
+        }
+    },
+    {
+        "pk": "472",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Aventura"
+        }
+    },
+    {
+        "pk": "473",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "B\u00e9licos"
+        }
+    },
+    {
+        "pk": "474",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Biograf\u00edas"
+        }
+    },
+    {
+        "pk": "475",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Ciencia Ficci\u00f3n"
+        }
+    },
+    {
+        "pk": "476",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Ciencias"
+        }
+    },
+    {
+        "pk": "477",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Ciencias Econ\u00f3micas"
+        }
+    },
+    {
+        "pk": "478",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Cine y Fotograf\u00eda"
+        }
+    },
+    {
+        "pk": "479",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Cl\u00e1sicos"
+        }
+    },
+    {
+        "pk": "480",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Cocina"
+        }
+    },
+    {
+        "pk": "481",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Colecci\u00f3n"
+        }
+    },
+    {
+        "pk": "482",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Computaci\u00f3n"
+        }
+    },
+    {
+        "pk": "483",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Comunicaci\u00f3n y Periodismo"
+        }
+    },
+    {
+        "pk": "484",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Crimen y polic\u00edacos"
+        }
+    },
+    {
+        "pk": "485",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Cuentos"
+        }
+    },
+    {
+        "pk": "486",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Deportes"
+        }
+    },
+    {
+        "pk": "487",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Derecho"
+        }
+    },
+    {
+        "pk": "488",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Diccionarios"
+        }
+    },
+    {
+        "pk": "489",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Ensayos"
+        }
+    },
+    {
+        "pk": "490",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Esot\u00e9ricos"
+        }
+    },
+    {
+        "pk": "491",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Filosof\u00eda"
+        }
+    },
+    {
+        "pk": "492",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Folletines y Pulp"
+        }
+    },
+    {
+        "pk": "493",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Historia"
+        }
+    },
+    {
+        "pk": "494",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Humor"
+        }
+    },
+    {
+        "pk": "495",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Idiomas"
+        }
+    },
+    {
+        "pk": "496",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Infantiles"
+        }
+    },
+    {
+        "pk": "497",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Jardiner\u00eda"
+        }
+    },
+    {
+        "pk": "498",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Juveniles"
+        }
+    },
+    {
+        "pk": "499",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Literatura"
+        }
+    },
+    {
+        "pk": "500",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Manualidades y Oficios"
+        }
+    },
+    {
+        "pk": "501",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Manualidades y Oficios"
+        }
+    },
+    {
+        "pk": "502",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Matem\u00e1ticas"
+        }
+    },
+    {
+        "pk": "503",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Maternidad"
+        }
+    },
+    {
+        "pk": "504",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "M\u00fasica"
+        }
+    },
+    {
+        "pk": "505",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Narrativa"
+        }
+    },
+    {
+        "pk": "506",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Poes\u00eda"
+        }
+    },
+    {
+        "pk": "507",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Pol\u00edtica"
+        }
+    },
+    {
+        "pk": "508",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Profesionales"
+        }
+    },
+    {
+        "pk": "509",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Psicolog\u00eda"
+        }
+    },
+    {
+        "pk": "510",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Religi\u00f3n"
+        }
+    },
+    {
+        "pk": "511",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Salud"
+        }
+    },
+    {
+        "pk": "512",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Sexualidad"
+        }
+    },
+    {
+        "pk": "513",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "T\u00e9cnicos"
+        }
+    },
+    {
+        "pk": "514",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Terapias Alternativas"
+        }
+    },
+    {
+        "pk": "515",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Terror y suspenso"
+        }
+    },
+    {
+        "pk": "516",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Textos de Estudio"
+        }
+    },
+    {
+        "pk": "518",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Otros"
+        }
+    },
+    {
+        "pk": "519",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Revistas"
+        }
+    },
+    {
+        "pk": "520",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "43",
+            "nombre": "Bebidas Alcoh\u00f3licas"
+        }
+    },
+    {
+        "pk": "521",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "43",
+            "nombre": "Bebidas Sin Alcohol"
+        }
+    },
+    {
+        "pk": "522",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "43",
+            "nombre": "Comestibles"
+        }
+    },
+    {
+        "pk": "523",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "44",
+            "nombre": "Hierbas"
+        }
+    },
+    {
+        "pk": "524",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "44",
+            "nombre": "Fitoextractos"
+        }
+    },
+    {
+        "pk": "525",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "44",
+            "nombre": "Lineas Capilares"
+        }
+    },
+    {
+        "pk": "526",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "44",
+            "nombre": "Complementos Alimenticios"
+        }
+    },
+    {
+        "pk": "527",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "44",
+            "nombre": "C\u00e1psulas"
+        }
+    },
+    {
+        "pk": "528",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "44",
+            "nombre": "Cosmetica Natural"
+        }
+    },
+    {
+        "pk": "529",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "44",
+            "nombre": "Aceites Esenciales"
+        }
+    },
+    {
+        "pk": "530",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "44",
+            "nombre": "Cremas"
+        }
+    },
+    {
+        "pk": "531",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "44",
+            "nombre": "Homeopat\u00eda"
+        }
+    },
+    {
+        "pk": "532",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "44",
+            "nombre": "Remedios Florales"
+        }
+    },
+    {
+        "pk": "533",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Abonos"
+        }
+    },
+    {
+        "pk": "534",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Accesorios Indoor"
+        }
+    },
+    {
+        "pk": "535",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Armarios"
+        }
+    },
+    {
+        "pk": "536",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Carpas"
+        }
+    },
+    {
+        "pk": "537",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Fertilizantes"
+        }
+    },
+    {
+        "pk": "538",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Iluminaci\u00f3n"
+        }
+    },
+    {
+        "pk": "539",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Macetas"
+        }
+    },
+    {
+        "pk": "540",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Platos"
+        }
+    },
+    {
+        "pk": "541",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Medici\u00f3n"
+        }
+    },
+    {
+        "pk": "542",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Calibradores"
+        }
+    },
+    {
+        "pk": "543",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Pesticidas"
+        }
+    },
+    {
+        "pk": "544",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Fungicidas"
+        }
+    },
+    {
+        "pk": "545",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Repelentes"
+        }
+    },
+    {
+        "pk": "546",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Riego"
+        }
+    },
+    {
+        "pk": "547",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Sustratos"
+        }
+    },
+    {
+        "pk": "548",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Ventilaci\u00f3n"
+        }
+    },
+    {
+        "pk": "549",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Filtros"
+        }
+    },
+    {
+        "pk": "550",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "45",
+            "nombre": "Otros productos"
+        }
+    },
+    {
+        "pk": "551",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "46",
+            "nombre": "Perros"
+        }
+    },
+    {
+        "pk": "552",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "46",
+            "nombre": "Gatos"
+        }
+    },
+    {
+        "pk": "553",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "46",
+            "nombre": "Peces"
+        }
+    },
+    {
+        "pk": "554",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "46",
+            "nombre": "Otros Productos para Mascotas"
+        }
+    },
+    {
+        "pk": "555",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Accesorios de Moda para Mujer"
+        }
+    },
+    {
+        "pk": "556",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Bermudas y Shorts para Mujer"
+        }
+    },
+    {
+        "pk": "557",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Blusas"
+        }
+    },
+    {
+        "pk": "558",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Buzos y Canguros"
+        }
+    },
+    {
+        "pk": "559",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Calzados para Mujer"
+        }
+    },
+    {
+        "pk": "560",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Calzas y Leggings para Mujer"
+        }
+    },
+    {
+        "pk": "561",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Camisas para Mujer"
+        }
+    },
+    {
+        "pk": "562",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Camperas"
+        }
+    },
+    {
+        "pk": "563",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Carteras, Mochilas y Equipajes para Mujer"
+        }
+    },
+    {
+        "pk": "564",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Chalecos para Mujer"
+        }
+    },
+    {
+        "pk": "565",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Championes para Mujer"
+        }
+    },
+    {
+        "pk": "566",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Chaquetas y Blazers para Mujer"
+        }
+    },
+    {
+        "pk": "567",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Chombas"
+        }
+    },
+    {
+        "pk": "568",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Enteritos"
+        }
+    },
+    {
+        "pk": "569",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Gabardinas y Pilots"
+        }
+    },
+    {
+        "pk": "570",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Lentes para Mujer"
+        }
+    },
+    {
+        "pk": "571",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Pantalones para Mujer"
+        }
+    },
+    {
+        "pk": "572",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Poleras y Polerones para Mujer"
+        }
+    },
+    {
+        "pk": "573",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Polleras para Mujer"
+        }
+    },
+    {
+        "pk": "574",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Ponchos para Mujer"
+        }
+    },
+    {
+        "pk": "575",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Remeras y Musculosas para Mujer"
+        }
+    },
+    {
+        "pk": "576",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Ropa Deportiva para Mujer"
+        }
+    },
+    {
+        "pk": "577",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Ropa Interior y Lencer\u00eda para Mujer"
+        }
+    },
+    {
+        "pk": "578",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Ropa de Dormir para Mujer"
+        }
+    },
+    {
+        "pk": "579",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Ropa de Embarazadas para Mujer"
+        }
+    },
+    {
+        "pk": "580",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Saquitos para Mujer"
+        }
+    },
+    {
+        "pk": "581",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Sweaters y Cardigans para Mujer"
+        }
+    },
+    {
+        "pk": "582",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Tapados para Mujer"
+        }
+    },
+    {
+        "pk": "583",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Trajes para Mujer"
+        }
+    },
+    {
+        "pk": "584",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Trajes de Ba\u00f1o para Mujer"
+        }
+    },
+    {
+        "pk": "585",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Vestidos para Mujer"
+        }
+    },
+    {
+        "pk": "586",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Accesorios de Moda para Hombre"
+        }
+    },
+    {
+        "pk": "587",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Uniformes"
+        }
+    },
+    {
+        "pk": "588",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "47",
+            "nombre": "Uniformes"
+        }
+    },
+    {
+        "pk": "589",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Bermudas y Shorts para Hombre"
+        }
+    },
+    {
+        "pk": "590",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Buzos y Canguros para Hombre"
+        }
+    },
+    {
+        "pk": "591",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Calzados para Hombre"
+        }
+    },
+    {
+        "pk": "592",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Calzas y Leggings para Hombre"
+        }
+    },
+    {
+        "pk": "593",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Camisas para Hombre"
+        }
+    },
+    {
+        "pk": "594",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Camperas para Hombre"
+        }
+    },
+    {
+        "pk": "595",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Carteras, Mochilas y Equipajes para Hombre"
+        }
+    },
+    {
+        "pk": "596",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Chalecos para Hombre"
+        }
+    },
+    {
+        "pk": "597",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Chalecos para Hombre"
+        }
+    },
+    {
+        "pk": "598",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Championes para Hombre"
+        }
+    },
+    {
+        "pk": "599",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Chaquetas y Blazers para Hombre"
+        }
+    },
+    {
+        "pk": "600",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Chomba para Hombre"
+        }
+    },
+    {
+        "pk": "601",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Gabardinas y Pilots para Hombre"
+        }
+    },
+    {
+        "pk": "602",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Lentes para Hombre"
+        }
+    },
+    {
+        "pk": "603",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Pantalones para Hombre"
+        }
+    },
+    {
+        "pk": "604",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Poleras y Polerones para Hombre"
+        }
+    },
+    {
+        "pk": "605",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Ponchos para Hombre"
+        }
+    },
+    {
+        "pk": "606",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Remeras y Musculosas para Hombre"
+        }
+    },
+    {
+        "pk": "607",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Ropa Deportiva para Hombre"
+        }
+    },
+    {
+        "pk": "608",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Chalecos para Hombre para deporte"
+        }
+    },
+    {
+        "pk": "609",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Ropa Interior y De Dormir para Hombre"
+        }
+    },
+    {
+        "pk": "610",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Saquitos para Hombre"
+        }
+    },
+    {
+        "pk": "611",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Sweaters y Cardigans para Hombre"
+        }
+    },
+    {
+        "pk": "612",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Tapados para Hombre"
+        }
+    },
+    {
+        "pk": "613",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Trajes para Hombre"
+        }
+    },
+    {
+        "pk": "614",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "48",
+            "nombre": "Trajes de Ba\u00f1o para Hombre"
+        }
+    },
+    {
+        "pk": "615",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Accesorios de Moda para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "616",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Bermudas y Shorts para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "617",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Blusas  para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "618",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Buzos y Canguros para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "619",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Calzados para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "620",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Calzas y Leggings para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "621",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Camisas para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "622",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Camperas para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "623",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Carteras, Mochilas y Equipajes para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "624",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Mochilas para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "625",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Chalecos para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "626",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Championes para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "627",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Chaquetas y Blazers para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "628",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Chombas  para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "629",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Enteritos para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "630",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Gabardinas y Pilots para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "631",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Lentes para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "632",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Pantalones para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "633",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Polleras para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "634",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Ponchos  para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "635",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Poleras y Polerones para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "636",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Remeras y Musculosas  para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "637",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Ropa Deportiva para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "638",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Ropa Interior y De Dormir para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "639",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Saquitos  para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "640",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Sweaters y Cardigans para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "641",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Tapados  para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "642",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Trajes de Ba\u00f1os para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "643",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Vestidos para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "644",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Accesorios de Moda para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "645",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Bermudas y Shorts para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "646",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Buzos y Canguros para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "647",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Calzados para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "648",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Camisas para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "649",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Camperas para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "650",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Carteras, Mochilas y Equipajes para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "651",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Chalecos para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "652",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Championes para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "653",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Chaquetas y Blazers para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "654",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Gabardinas y Pilots para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "655",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Lentes para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "656",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Pantalones para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "657",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Poleras y Polerones para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "658",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Ponchos para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "659",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Remeras y Musculosas para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "660",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Ropa Deportiva para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "661",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Ropa Interior y De Dormir para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "662",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Saquitos para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "663",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Sweaters y Cardigans para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "664",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Tapados para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "665",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Trajes para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "666",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Trajes de Ba\u00f1o para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "667",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Uniformes y T\u00fanicas para NI\u00f1os"
+        }
+    },
+    {
+        "pk": "668",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "49",
+            "nombre": "Uniformes y T\u00fanicas para Ni\u00f1as"
+        }
+    },
+    {
+        "pk": "669",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Arneses"
+        }
+    },
+    {
+        "pk": "670",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Cascos"
+        }
+    },
+    {
+        "pk": "671",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Conos"
+        }
+    },
+    {
+        "pk": "672",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Extintores"
+        }
+    },
+    {
+        "pk": "673",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Guantes"
+        }
+    },
+    {
+        "pk": "674",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Lentes de Protecci\u00f3n"
+        }
+    },
+    {
+        "pk": "675",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "M\u00e1scaras de Protecci\u00f3n"
+        }
+    },
+    {
+        "pk": "676",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "M\u00e1scaras para Soldar"
+        }
+    },
+    {
+        "pk": "677",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Mamelucos"
+        }
+    },
+    {
+        "pk": "678",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Protectores Auditivos"
+        }
+    },
+    {
+        "pk": "679",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Zapatos"
+        }
+    },
+    {
+        "pk": "680",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Delantales de Cuero"
+        }
+    },
+    {
+        "pk": "681",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Botas"
+        }
+    },
+    {
+        "pk": "682",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Contenedores y Recipientes "
+        }
+    },
+    {
+        "pk": "683",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Cremas Protectoras"
+        }
+    },
+    {
+        "pk": "684",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Equipos de Emergencia"
+        }
+    },
+    {
+        "pk": "685",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Botiquines de Primeros Auxilios"
+        }
+    },
+    {
+        "pk": "686",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Anclajes"
+        }
+    },
+    {
+        "pk": "687",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Equipos de Rescate"
+        }
+    },
+    {
+        "pk": "688",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Camillas de Rescate"
+        }
+    },
+    {
+        "pk": "689",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Fajas"
+        }
+    },
+    {
+        "pk": "690",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Carteler\u00eda Indicativa"
+        }
+    },
+    {
+        "pk": "691",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Cintas Reflectivas"
+        }
+    },
+    {
+        "pk": "692",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Mallas Protectoras"
+        }
+    },
+    {
+        "pk": "693",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Vestimenta de Trabajo"
+        }
+    },
+    {
+        "pk": "694",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Chalecos Reflectivos"
+        }
+    },
+    {
+        "pk": "695",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "51",
+            "nombre": "Parka Reflectiva"
+        }
+    },
+    {
+        "pk": "696",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "52",
+            "nombre": "Cotill\u00f3n"
+        }
+    },
+    {
+        "pk": "697",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "52",
+            "nombre": "Disfraces"
+        }
+    },
+    {
+        "pk": "698",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "52",
+            "nombre": "Fiestas"
+        }
+    },
+    {
+        "pk": "699",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Acuarelas"
+        }
+    },
+    {
+        "pk": "700",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Archivadores"
+        }
+    },
+    {
+        "pk": "701",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Biblioratos"
+        }
+    },
+    {
+        "pk": "702",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Blocs escolares y Liceales"
+        }
+    },
+    {
+        "pk": "703",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Boligrafos y Marcadores"
+        }
+    },
+    {
+        "pk": "704",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Brillantina y Pintura "
+        }
+    },
+    {
+        "pk": "705",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Brillantinas"
+        }
+    },
+    {
+        "pk": "706",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Calculadoras"
+        }
+    },
+    {
+        "pk": "707",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Carpetas"
+        }
+    },
+    {
+        "pk": "708",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Cartucheras"
+        }
+    },
+    {
+        "pk": "709",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Cartulinas"
+        }
+    },
+    {
+        "pk": "710",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Cintas Adhesivas"
+        }
+    },
+    {
+        "pk": "711",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Clips"
+        }
+    },
+    {
+        "pk": "712",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Compas"
+        }
+    },
+    {
+        "pk": "713",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Correctores"
+        }
+    },
+    {
+        "pk": "714",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Crayolas"
+        }
+    },
+    {
+        "pk": "715",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Crayones y Oleo"
+        }
+    },
+    {
+        "pk": "716",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Cuadernolas"
+        }
+    },
+    {
+        "pk": "717",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Cuadernos"
+        }
+    },
+    {
+        "pk": "718",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Diccionarios"
+        }
+    },
+    {
+        "pk": "719",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Forros para cuadernos"
+        }
+    },
+    {
+        "pk": "720",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Goma de Borrar"
+        }
+    },
+    {
+        "pk": "721",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Goma de Pegar"
+        }
+    },
+    {
+        "pk": "722",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Goma Eva"
+        }
+    },
+    {
+        "pk": "723",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Gomas de Borrar"
+        }
+    },
+    {
+        "pk": "724",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Grafos"
+        }
+    },
+    {
+        "pk": "725",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Grapadoras"
+        }
+    },
+    {
+        "pk": "726",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Hojas de Garbanzo"
+        }
+    },
+    {
+        "pk": "727",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Hojas Tabar\u00e9"
+        }
+    },
+    {
+        "pk": "728",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Juegos de Geometria"
+        }
+    },
+    {
+        "pk": "729",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Lapiceras"
+        }
+    },
+    {
+        "pk": "730",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Lapices de Colores"
+        }
+    },
+    {
+        "pk": "731",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Lapices de Escribir "
+        }
+    },
+    {
+        "pk": "732",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Libretas"
+        }
+    },
+    {
+        "pk": "733",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Libros Did\u00e1cticos"
+        }
+    },
+    {
+        "pk": "734",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Marcadores"
+        }
+    },
+    {
+        "pk": "735",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Marcadores de Pizarra"
+        }
+    },
+    {
+        "pk": "736",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Marcadores Fl\u00fao"
+        }
+    },
+    {
+        "pk": "737",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Marcadores Permanentes"
+        }
+    },
+    {
+        "pk": "738",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Masas de Moldear"
+        }
+    },
+    {
+        "pk": "739",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Mesas para Moldear"
+        }
+    },
+    {
+        "pk": "740",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Oleo Pasteles"
+        }
+    },
+    {
+        "pk": "741",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Papeles varios "
+        }
+    },
+    {
+        "pk": "742",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Pegamentos"
+        }
+    },
+    {
+        "pk": "743",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Pinceles"
+        }
+    },
+    {
+        "pk": "744",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Pinturas Plasticinas"
+        }
+    },
+    {
+        "pk": "745",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Porta L\u00e1pices y Papeleras"
+        }
+    },
+    {
+        "pk": "746",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Portaminas"
+        }
+    },
+    {
+        "pk": "747",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Sacapuntas"
+        }
+    },
+    {
+        "pk": "748",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Sellos"
+        }
+    },
+    {
+        "pk": "749",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Sets Escolares"
+        }
+    },
+    {
+        "pk": "750",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Sets Liceales"
+        }
+    },
+    {
+        "pk": "751",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Tablas"
+        }
+    },
+    {
+        "pk": "752",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Tablas de Dibujo"
+        }
+    },
+    {
+        "pk": "753",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Temperas"
+        }
+    },
+    {
+        "pk": "754",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Tijeras"
+        }
+    },
+    {
+        "pk": "755",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Tijeras "
+        }
+    },
+    {
+        "pk": "756",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Tizas"
+        }
+    },
+    {
+        "pk": "757",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Trinchetas"
+        }
+    },
+    {
+        "pk": "758",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Utiles"
+        }
+    },
+    {
+        "pk": "759",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "53",
+            "nombre": "Otros Productos"
+        }
+    },
+    {
+        "pk": "760",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "54",
+            "nombre": "Accesorios para Pintar"
+        }
+    },
+    {
+        "pk": "761",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "54",
+            "nombre": "Pinturas"
+        }
+    },
+    {
+        "pk": "762",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "54",
+            "nombre": "Electricidad"
+        }
+    },
+    {
+        "pk": "763",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "54",
+            "nombre": "Abrasivos"
+        }
+    },
+    {
+        "pk": "764",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "54",
+            "nombre": "Adhesivos, Selladores y Colas"
+        }
+    },
+    {
+        "pk": "765",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "54",
+            "nombre": "Sanitaria"
+        }
+    },
+    {
+        "pk": "766",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "54",
+            "nombre": "Ba\u00f1os y Cocinas"
+        }
+    },
+    {
+        "pk": "767",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "54",
+            "nombre": "Cerraduras y Herrajes"
+        }
+    },
+    {
+        "pk": "768",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "54",
+            "nombre": "Aberturas"
+        }
+    },
+    {
+        "pk": "769",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "54",
+            "nombre": "Escaleras"
+        }
+    },
+    {
+        "pk": "770",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "54",
+            "nombre": "Disolventes"
+        }
+    },
+    {
+        "pk": "771",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "54",
+            "nombre": "Materiales de Construcci\u00f3n"
+        }
+    },
+    {
+        "pk": "772",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "54",
+            "nombre": "Maderas"
+        }
+    },
+    {
+        "pk": "773",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Belleza y Cuidado Personal"
+        }
+    },
+    {
+        "pk": "774",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Clases y Cursos"
+        }
+    },
+    {
+        "pk": "775",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Medicina y Salud"
+        }
+    },
+    {
+        "pk": "776",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Mudanzas y Traslados"
+        }
+    },
+    {
+        "pk": "777",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Oficios"
+        }
+    },
+    {
+        "pk": "778",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Profesionales"
+        }
+    },
+    {
+        "pk": "779",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Profesionales"
+        }
+    },
+    {
+        "pk": "780",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "56",
+            "nombre": "Lentes de Sol"
+        }
+    },
+    {
+        "pk": "781",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "56",
+            "nombre": "Lentes de Receta"
+        }
+    },
+    {
+        "pk": "782",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "56",
+            "nombre": "Lentes de Contacto"
+        }
+    },
+    {
+        "pk": "783",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "56",
+            "nombre": "Audiolog\u00eda"
+        }
+    },
+    {
+        "pk": "784",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "56",
+            "nombre": "Accesorios"
+        }
+    },
+    {
+        "pk": "785",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "56",
+            "nombre": "Otros"
+        }
+    },
+    {
+        "pk": "786",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "57",
+            "nombre": "Marroquineria"
+        }
+    },
+    {
+        "pk": "787",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "57",
+            "nombre": "Accesorios Talabarter\u00eda"
+        }
+    },
+    {
+        "pk": "788",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "57",
+            "nombre": "Art\u00edculos Talabarteria"
+        }
+    },
+    {
+        "pk": "789",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "57",
+            "nombre": "Cuidado del Caballo Talabarter\u00eda"
+        }
+    },
+    {
+        "pk": "790",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Boinas"
+        }
+    },
+    {
+        "pk": "791",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Sombreros"
+        }
+    },
+    {
+        "pk": "792",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Bombachas de Campo"
+        }
+    },
+    {
+        "pk": "793",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Gorras"
+        }
+    },
+    {
+        "pk": "794",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Botas"
+        }
+    },
+    {
+        "pk": "795",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Saca Botas"
+        }
+    },
+    {
+        "pk": "796",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Camisas"
+        }
+    },
+    {
+        "pk": "797",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Chalecos"
+        }
+    },
+    {
+        "pk": "798",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Ponchos"
+        }
+    },
+    {
+        "pk": "799",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Cintos"
+        }
+    },
+    {
+        "pk": "800",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Fajas"
+        }
+    },
+    {
+        "pk": "801",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Pa\u00f1uelos"
+        }
+    },
+    {
+        "pk": "802",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Camperas"
+        }
+    },
+    {
+        "pk": "803",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Otros Productos"
+        }
+    },
+    {
+        "pk": "804",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Pantalones"
+        }
+    },
+    {
+        "pk": "805",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Buzos"
+        }
+    },
+    {
+        "pk": "806",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Promocionales"
+        }
+    },
+    {
+        "pk": "807",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Antiestres"
+        }
+    },
+    {
+        "pk": "808",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Articulos para Playa"
+        }
+    },
+    {
+        "pk": "809",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Balanzas"
+        }
+    },
+    {
+        "pk": "810",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Banderas Promocionales"
+        }
+    },
+    {
+        "pk": "811",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Billeteras"
+        }
+    },
+    {
+        "pk": "812",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Blocks"
+        }
+    },
+    {
+        "pk": "813",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Bolsas de residuos para Autos"
+        }
+    },
+    {
+        "pk": "814",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Bolsas Ecol\u00f3gicas"
+        }
+    },
+    {
+        "pk": "815",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Bolsos"
+        }
+    },
+    {
+        "pk": "816",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Botellas Deportivas"
+        }
+    },
+    {
+        "pk": "817",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Botellas T\u00e9rmicas"
+        }
+    },
+    {
+        "pk": "818",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Botineras"
+        }
+    },
+    {
+        "pk": "819",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Botiquines para Autos"
+        }
+    },
+    {
+        "pk": "820",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Bufandas"
+        }
+    },
+    {
+        "pk": "821",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Camisetas"
+        }
+    },
+    {
+        "pk": "822",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Carama\u00f1olas"
+        }
+    },
+    {
+        "pk": "823",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Cargadores Portatiles"
+        }
+    },
+    {
+        "pk": "824",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Carpetas"
+        }
+    },
+    {
+        "pk": "825",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Cartucheras"
+        }
+    },
+    {
+        "pk": "826",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Cintas M\u00e9tricas"
+        }
+    },
+    {
+        "pk": "827",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Colgantes"
+        }
+    },
+    {
+        "pk": "828",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Cometas"
+        }
+    },
+    {
+        "pk": "829",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Conservadoras"
+        }
+    },
+    {
+        "pk": "830",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Copas"
+        }
+    },
+    {
+        "pk": "831",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Cuelga Bolso"
+        }
+    },
+    {
+        "pk": "832",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Delantales"
+        }
+    },
+    {
+        "pk": "833",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Destapador"
+        }
+    },
+    {
+        "pk": "834",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Dispensador de Jab\u00f3n"
+        }
+    },
+    {
+        "pk": "835",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Sobre de Dormir"
+        }
+    },
+    {
+        "pk": "836",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Dossier"
+        }
+    },
+    {
+        "pk": "837",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Eco Banner"
+        }
+    },
+    {
+        "pk": "838",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Envases para Obsequios"
+        }
+    },
+    {
+        "pk": "839",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Espejos"
+        }
+    },
+    {
+        "pk": "840",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Exhibidores Mini Banner"
+        }
+    },
+    {
+        "pk": "841",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Exhibidores y Portamen\u00fa"
+        }
+    },
+    {
+        "pk": "842",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Fresbee"
+        }
+    },
+    {
+        "pk": "843",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Generala"
+        }
+    },
+    {
+        "pk": "844",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Gorros"
+        }
+    },
+    {
+        "pk": "845",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Hieleras"
+        }
+    },
+    {
+        "pk": "846",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Individuales"
+        }
+    },
+    {
+        "pk": "847",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Jarras Cervezeras"
+        }
+    },
+    {
+        "pk": "848",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Jarros"
+        }
+    },
+    {
+        "pk": "849",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Lapiceras"
+        }
+    },
+    {
+        "pk": "850",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Lapiceras"
+        }
+    },
+    {
+        "pk": "851",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Libretas con Accesorios"
+        }
+    },
+    {
+        "pk": "852",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Libretas Ecol\u00f3gicas"
+        }
+    },
+    {
+        "pk": "853",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Llaveros"
+        }
+    },
+    {
+        "pk": "854",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Llaveros Colgantes"
+        }
+    },
+    {
+        "pk": "855",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Lunch Box"
+        }
+    },
+    {
+        "pk": "856",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Manoplas"
+        }
+    },
+    {
+        "pk": "857",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Mantas "
+        }
+    },
+    {
+        "pk": "858",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Matera para Auto"
+        }
+    },
+    {
+        "pk": "859",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Materas"
+        }
+    },
+    {
+        "pk": "860",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Material Gr\u00e1fico"
+        }
+    },
+    {
+        "pk": "861",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Mates"
+        }
+    },
+    {
+        "pk": "862",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Mochilas"
+        }
+    },
+    {
+        "pk": "863",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Naipes"
+        }
+    },
+    {
+        "pk": "864",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Navajas"
+        }
+    },
+    {
+        "pk": "865",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Necessaires"
+        }
+    },
+    {
+        "pk": "866",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Oficina "
+        }
+    },
+    {
+        "pk": "867",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Otros"
+        }
+    },
+    {
+        "pk": "868",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Pantuflas"
+        }
+    },
+    {
+        "pk": "869",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Paraguas"
+        }
+    },
+    {
+        "pk": "870",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Parasoles"
+        }
+    },
+    {
+        "pk": "871",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Peine"
+        }
+    },
+    {
+        "pk": "872",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Pelotas"
+        }
+    },
+    {
+        "pk": "873",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Pendrive "
+        }
+    },
+    {
+        "pk": "874",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Pins"
+        }
+    },
+    {
+        "pk": "875",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Platos"
+        }
+    },
+    {
+        "pk": "876",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Pocillos de Caf\u00e9"
+        }
+    },
+    {
+        "pk": "877",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Portaretratos"
+        }
+    },
+    {
+        "pk": "878",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Posavasos"
+        }
+    },
+    {
+        "pk": "879",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Pulseras de Siliconas"
+        }
+    },
+    {
+        "pk": "880",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Puzzles"
+        }
+    },
+    {
+        "pk": "881",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Reglas"
+        }
+    },
+    {
+        "pk": "882",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Relojes"
+        }
+    },
+    {
+        "pk": "883",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Roll Up"
+        }
+    },
+    {
+        "pk": "884",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Selfie Stick"
+        }
+    },
+    {
+        "pk": "885",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Servilleteros"
+        }
+    },
+    {
+        "pk": "886",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Set de Asado"
+        }
+    },
+    {
+        "pk": "887",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Set de Belleza"
+        }
+    },
+    {
+        "pk": "888",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Set de Herramientas"
+        }
+    },
+    {
+        "pk": "889",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Set de Naipes"
+        }
+    },
+    {
+        "pk": "890",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Set de Viaje"
+        }
+    },
+    {
+        "pk": "891",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Set de Vino"
+        }
+    },
+    {
+        "pk": "892",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Set Manicura"
+        }
+    },
+    {
+        "pk": "893",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Set Paletas Paddle"
+        }
+    },
+    {
+        "pk": "894",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Sillas Playeras"
+        }
+    },
+    {
+        "pk": "895",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Sobres Porta Pasajes"
+        }
+    },
+    {
+        "pk": "896",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Sombreros Panam\u00e1"
+        }
+    },
+    {
+        "pk": "897",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Sombrillas"
+        }
+    },
+    {
+        "pk": "898",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Spider de Luxe"
+        }
+    },
+    {
+        "pk": "899",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Tablas Asador"
+        }
+    },
+    {
+        "pk": "900",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Tablas Paper"
+        }
+    },
+    {
+        "pk": "901",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Tarjeteros"
+        }
+    },
+    {
+        "pk": "902",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Tazas"
+        }
+    },
+    {
+        "pk": "903",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Tejo"
+        }
+    },
+    {
+        "pk": "904",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Toallas"
+        }
+    },
+    {
+        "pk": "905",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Toallones"
+        }
+    },
+    {
+        "pk": "906",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Trabacorbatas"
+        }
+    },
+    {
+        "pk": "907",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "T-Shirt "
+        }
+    },
+    {
+        "pk": "908",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Vasos"
+        }
+    },
+    {
+        "pk": "909",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Vinchas"
+        }
+    },
+    {
+        "pk": "910",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "59",
+            "nombre": "Yerberas"
+        }
+    },
+    {
+        "pk": "911",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "60",
+            "nombre": "Gr\u00e1fica v\u00eda P\u00fablica y Eventos"
+        }
+    },
+    {
+        "pk": "912",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "60",
+            "nombre": "Imprenta Productos"
+        }
+    },
+    {
+        "pk": "913",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "60",
+            "nombre": "Floreria Productos y Servicios"
+        }
+    },
+    {
+        "pk": "914",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Artesanias"
+        }
+    },
+    {
+        "pk": "915",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Plastico Productos"
+        }
+    },
+    {
+        "pk": "916",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Higi\u00e9ne Personal y del Hogar"
+        }
+    },
+    {
+        "pk": "917",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Alcatel"
+        }
+    },
+    {
+        "pk": "918",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Asus"
+        }
+    },
+    {
+        "pk": "919",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "BlackBerry"
+        }
+    },
+    {
+        "pk": "920",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Blu"
+        }
+    },
+    {
+        "pk": "921",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "CAT"
+        }
+    },
+    {
+        "pk": "922",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Daewoo"
+        }
+    },
+    {
+        "pk": "923",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "HTC"
+        }
+    },
+    {
+        "pk": "924",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Huawei"
+        }
+    },
+    {
+        "pk": "925",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Hyundai"
+        }
+    },
+    {
+        "pk": "926",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Icemobile"
+        }
+    },
+    {
+        "pk": "927",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "iPhone"
+        }
+    },
+    {
+        "pk": "928",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Ipro"
+        }
+    },
+    {
+        "pk": "929",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Kodak"
+        }
+    },
+    {
+        "pk": "930",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Kolke"
+        }
+    },
+    {
+        "pk": "931",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Leagoo"
+        }
+    },
+    {
+        "pk": "932",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Ledstar"
+        }
+    },
+    {
+        "pk": "933",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Lenovo"
+        }
+    },
+    {
+        "pk": "934",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "LG"
+        }
+    },
+    {
+        "pk": "935",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Microsoft"
+        }
+    },
+    {
+        "pk": "936",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Motorola"
+        }
+    },
+    {
+        "pk": "937",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Nokia"
+        }
+    },
+    {
+        "pk": "938",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Oneplus"
+        }
+    },
+    {
+        "pk": "939",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Posh"
+        }
+    },
+    {
+        "pk": "940",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Samsung"
+        }
+    },
+    {
+        "pk": "941",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "SKY"
+        }
+    },
+    {
+        "pk": "942",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Sony"
+        }
+    },
+    {
+        "pk": "943",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Uphone"
+        }
+    },
+    {
+        "pk": "944",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Verykool"
+        }
+    },
+    {
+        "pk": "945",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Xiaomi"
+        }
+    },
+    {
+        "pk": "946",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Xion"
+        }
+    },
+    {
+        "pk": "947",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Yezz"
+        }
+    },
+    {
+        "pk": "948",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "ZTE"
+        }
+    },
+    {
+        "pk": "949",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Otras Marcas"
+        }
+    },
+    {
+        "pk": "950",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Gimnasios"
+        }
+    },
+    {
+        "pk": "952",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Seguridad"
+        }
+    },
+    {
+        "pk": "953",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Limpieza"
+        }
+    },
+    {
+        "pk": "954",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "12",
+            "nombre": "VENTA DE VEHICULOS"
+        }
+    },
+    {
+        "pk": "955",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Articulos de Cotill\u00f3n"
+        }
+    },
+    {
+        "pk": "956",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Comestibles"
+        }
+    },
+    {
+        "pk": "957",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Juguetes eroticos"
+        }
+    },
+    {
+        "pk": "958",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Lenceria y accesorios"
+        }
+    },
+    {
+        "pk": "959",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Cremas"
+        }
+    },
+    {
+        "pk": "960",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Articulos de Cotill\u00f3n"
+        }
+    },
+    {
+        "pk": "961",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Comestibles"
+        }
+    },
+    {
+        "pk": "962",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Cremas"
+        }
+    },
+    {
+        "pk": "963",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Fotograf\u00edas y Coleccionables "
+        }
+    },
+    {
+        "pk": "964",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Juguetes Er\u00f3ticos"
+        }
+    },
+    {
+        "pk": "965",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Lencer\u00eda y Accesorios"
+        }
+    },
+    {
+        "pk": "966",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Libros y Revistas"
+        }
+    },
+    {
+        "pk": "967",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Lubricantes, Geles y Aceites"
+        }
+    },
+    {
+        "pk": "968",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Peliculas"
+        }
+    },
+    {
+        "pk": "969",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Perfumes"
+        }
+    },
+    {
+        "pk": "970",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Preservativos"
+        }
+    },
+    {
+        "pk": "971",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "62",
+            "nombre": "Otros"
+        }
+    },
+    {
+        "pk": "975",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Otros"
+        }
+    },
+    {
+        "pk": "976",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Parlantes"
+        }
+    },
+    {
+        "pk": "977",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Monitores"
+        }
+    },
+    {
+        "pk": "978",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Impresoras"
+        }
+    },
+    {
+        "pk": "979",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "16",
+            "nombre": "Accesorios"
+        }
+    },
+    {
+        "pk": "980",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Megafonos"
+        }
+    },
+    {
+        "pk": "981",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Antenas"
+        }
+    },
+    {
+        "pk": "982",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "15",
+            "nombre": "Otros"
+        }
+    },
+    {
+        "pk": "983",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Medicamentos"
+        }
+    },
+    {
+        "pk": "984",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Telefon\u00eda Fija"
+        }
+    },
+    {
+        "pk": "985",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Tel\u00e9fonos Inal\u00e1mbricos"
+        }
+    },
+    {
+        "pk": "986",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "14",
+            "nombre": "Handies"
+        }
+    },
+    {
+        "pk": "987",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Repuestos para Celulares"
+        }
+    },
+    {
+        "pk": "988",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Ola Wyn"
+        }
+    },
+    {
+        "pk": "989",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "61",
+            "nombre": "Ola Cool "
+        }
+    },
+    {
+        "pk": "990",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Productos para Pedicuria"
+        }
+    },
+    {
+        "pk": "991",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Productos para Podolog\u00eda"
+        }
+    },
+    {
+        "pk": "992",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "50",
+            "nombre": "Mochila para Ni\u00f1os"
+        }
+    },
+    {
+        "pk": "993",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "PARA VEHICULOS"
+        }
+    },
+    {
+        "pk": "994",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Equipamientos para Fiestas y Eventos"
+        }
+    },
+    {
+        "pk": "995",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Fotograf\u00eda"
+        }
+    },
+    {
+        "pk": "996",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Filmaci\u00f3n"
+        }
+    },
+    {
+        "pk": "997",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Discoteca"
+        }
+    },
+    {
+        "pk": "998",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "25",
+            "nombre": "Agrotecnolog\u00eda"
+        }
+    },
+    {
+        "pk": "999",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "25",
+            "nombre": "Repuestos"
+        }
+    },
+    {
+        "pk": "1000",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "25",
+            "nombre": "Accesorios"
+        }
+    },
+    {
+        "pk": "1001",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "HOGAR"
+        }
+    },
+    {
+        "pk": "1002",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "34",
+            "nombre": "PULIDOS"
+        }
+    },
+    {
+        "pk": "1003",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Mantenimiento"
+        }
+    },
+    {
+        "pk": "1004",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "34",
+            "nombre": "Plastificados"
+        }
+    },
+    {
+        "pk": "1005",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "ARQUITECTURA Y DISE\u00d1O"
+        }
+    },
+    {
+        "pk": "1006",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Dise\u00f1os Graficos y Dise\u00f1os Web"
+        }
+    },
+    {
+        "pk": "1007",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Desarrollos de Marketing"
+        }
+    },
+    {
+        "pk": "1008",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Turismo Nacional"
+        }
+    },
+    {
+        "pk": "1009",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Turismo Regional"
+        }
+    },
+    {
+        "pk": "1010",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Turismo Internacional"
+        }
+    },
+    {
+        "pk": "1011",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Traslados"
+        }
+    },
+    {
+        "pk": "1012",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Hoteler\u00eda"
+        }
+    },
+    {
+        "pk": "1013",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Estancias Tur\u00edstica"
+        }
+    },
+    {
+        "pk": "1014",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Turismo Estudiantil"
+        }
+    },
+    {
+        "pk": "1015",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Salidas Grupales"
+        }
+    },
+    {
+        "pk": "1016",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Turismo Receptivo"
+        }
+    },
+    {
+        "pk": "1017",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Temporada Baja"
+        }
+    },
+    {
+        "pk": "1018",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Fin de A\u00f1o"
+        }
+    },
+    {
+        "pk": "1019",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Vacaciones de Julio"
+        }
+    },
+    {
+        "pk": "1020",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Vacaciones de Setiembre"
+        }
+    },
+    {
+        "pk": "1021",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Verano"
+        }
+    },
+    {
+        "pk": "1022",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Escapadas"
+        }
+    },
+    {
+        "pk": "1023",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Cruceros & Trenes"
+        }
+    },
+    {
+        "pk": "1024",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "All Inclusive & Resorts"
+        }
+    },
+    {
+        "pk": "1025",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Playas"
+        }
+    },
+    {
+        "pk": "1026",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Familia"
+        }
+    },
+    {
+        "pk": "1027",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Luna de Miel"
+        }
+    },
+    {
+        "pk": "1028",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Deportes y Espectaculos"
+        }
+    },
+    {
+        "pk": "1029",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Aereos"
+        }
+    },
+    {
+        "pk": "1030",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Hoteles Nacionales"
+        }
+    },
+    {
+        "pk": "1031",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Hoteles Internacionales"
+        }
+    },
+    {
+        "pk": "1032",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Rent A Car"
+        }
+    },
+    {
+        "pk": "1033",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Posadas de Campo"
+        }
+    },
+    {
+        "pk": "1034",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Camping"
+        }
+    },
+    {
+        "pk": "1035",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Bodegas Tur\u00edsticas"
+        }
+    },
+    {
+        "pk": "1036",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "Posadas"
+        }
+    },
+    {
+        "pk": "1037",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Patrimonio"
+        }
+    },
+    {
+        "pk": "1038",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "42",
+            "nombre": "Patrimonio"
+        }
+    },
+    {
+        "pk": "1039",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "64",
+            "nombre": "En Argentina"
+        }
+    },
+    {
+        "pk": "1040",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "58",
+            "nombre": "Pantalones Cargo"
+        }
+    },
+    {
+        "pk": "1041",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "Fiestas y Eventos"
+        }
+    },
+    {
+        "pk": "1042",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Lociones"
+        }
+    },
+    {
+        "pk": "1043",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Emulsiones"
+        }
+    },
+    {
+        "pk": "1044",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Leches de Limpiezas"
+        }
+    },
+    {
+        "pk": "1045",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "17",
+            "nombre": "Dermopigmentaci\u00f3n Capila"
+        }
+    },
+    {
+        "pk": "1046",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "65",
+            "nombre": "Discos de Pasta y Vinilo"
+        }
+    },
+    {
+        "pk": "1047",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "65",
+            "nombre": "CDs"
+        }
+    },
+    {
+        "pk": "1048",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "65",
+            "nombre": "DVD"
+        }
+    },
+    {
+        "pk": "1049",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "65",
+            "nombre": "Otros Formatos"
+        }
+    },
+    {
+        "pk": "1050",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "55",
+            "nombre": "MANAGEMENT"
+        }
+    },
+    {
+        "pk": "1051",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "22",
+            "nombre": "Estufas de Alto Rendimiento"
+        }
+    },
+    {
+        "pk": "1052",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Infantiles"
+        }
+    },
+    {
+        "pk": "1053",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Explosion y Giratorios"
+        }
+    },
+    {
+        "pk": "1054",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Base de misiles / Fuentes"
+        }
+    },
+    {
+        "pk": "1055",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Volcanes"
+        }
+    },
+    {
+        "pk": "1056",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Volcanes / Fuentes"
+        }
+    },
+    {
+        "pk": "1057",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Ca\u00f1as voladoras"
+        }
+    },
+    {
+        "pk": "1058",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Tortas"
+        }
+    },
+    {
+        "pk": "1059",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Tortitas / Pack de tortas"
+        }
+    },
+    {
+        "pk": "1060",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Mini espectaculos"
+        }
+    },
+    {
+        "pk": "1061",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Espectaculos"
+        }
+    },
+    {
+        "pk": "1062",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Candelas"
+        }
+    },
+    {
+        "pk": "1063",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Morteros"
+        }
+    },
+    {
+        "pk": "1064",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Vengalas"
+        }
+    },
+    {
+        "pk": "1065",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Otros"
+        }
+    },
+    {
+        "pk": "1066",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "Chaskis"
+        }
+    },
+    {
+        "pk": "1067",
+        "model": "productos.Subcategorias",
+        "fields": {
+            "categoria": "66",
+            "nombre": "0 ruido"
+        }
+    }
+]
