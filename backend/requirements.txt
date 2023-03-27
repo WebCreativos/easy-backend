@@ -1,6 +1,6 @@
 Django==2.2
 gunicorn==19.3.0
-redis==2.10.6
+redis==4.5.3
 djangorestframework
 django-cors-headers
 django-extra-fields
